@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+
+User-agent: Googlebot
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Crawl-delay: 10
+
+Sitemap: https://pintecgroup.co.uk/sitemap.xml
